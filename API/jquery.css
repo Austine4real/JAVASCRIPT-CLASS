@@ -1,0 +1,14 @@
+.ball{
+    width:100px;
+    height: 100px;
+    background-color: blue;
+    transition: 9s;
+}
+
+.ball2{
+    width: 300px;
+    height: 300px;
+    background-color: aquamarine;
+    border-radius: 50%;
+    transition: 9s;
+}

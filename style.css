@@ -1,0 +1,23 @@
+#btn1{
+    outline: 1.5px solid #ff4f4d;
+    outline-offset: 0.2rem;
+}
+
+.img{
+    width: 50%;
+}
+
+.purple{
+    width: 100px;
+    height: 100px;
+    background: purple;
+    transition: 9s ease-in-out;
+}
+
+.blue{
+    width: 500px;
+    height: 500px;
+    background: blue;
+    transition: 9s ease-in-out;
+    border-radius: 50%;
+}
